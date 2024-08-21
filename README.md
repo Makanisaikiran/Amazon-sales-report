@@ -1,5 +1,7 @@
 Amazon Sales Data Analysis
+
 Overview
+
 Welcome to the Amazon Sales Data Analysis repository! This project showcases an analysis of Amazon sales data using Python. The analysis includes visualizations and insights into sales trends, product performance, fulfillment methods, and geographical distribution.
 
 Features
